@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="0803b75c-7244-4c72-8125-14cdd39bf1b4" name="utd" url="http://cs2.utdallas.edu">
+        <fileTransfer host="cs2.utdallas.edu" port="22" rootFolder="/home/011/a/ab/abg160130" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
